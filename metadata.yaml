@@ -1,0 +1,35 @@
+_repo: Ocean-s-Story--or-Triumphs-of-Thirty-Centuriesand-Inventions-etc._46372
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Howland, Edward
+    gutenberg_agent_id: '43743'
+    url: http://www.gutenberg.org/2009/agents/43743
+covers:
+- cover_type: archival
+  image_path: 46372-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goodrich, Frank B. (Frank Boott)
+    alias: Goodrich, Frank Boott
+    birthdate: 1826
+    deathdate: 1894
+    gutenberg_agent_id: '43747'
+    url: http://www.gutenberg.org/2009/agents/43747
+description: ''
+gutenberg_issued: '2014-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Discoveries in geography'
+- !lcc 'G'
+- !lcsh 'Voyages and travels'
+title: "Ocean's Story; or, Triumphs of Thirty Centuries\r\nMaritime Adventures, Achievements,\
+  \ Explorations, Discoveries and Inventions; and of the Rise and Progress of Ship-Building\
+  \ and Ocean Navigation, from the Ark to the Iron Steamships"
+url: http://www.gutenberg.org/ebooks/46372
